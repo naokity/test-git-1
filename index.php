@@ -6,6 +6,10 @@
 </head>
 
 <body>
+<<<<<<< HEAD
+<h1>Branch &amp; Merge Group 7</h1>  
+<h4>This is a random page for you to edit and cause conflicts.</h4>
+
 <ol>
 <li>
 Eclairs
